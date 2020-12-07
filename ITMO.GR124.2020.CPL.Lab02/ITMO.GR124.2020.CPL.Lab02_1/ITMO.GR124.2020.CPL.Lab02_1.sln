@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ITMO.GR124.2020.CPL.Lab02_1", "ITMO.GR124.2020.CPL.Lab02_1.vcxproj", "{8B14BDBC-937D-4E65-A3E7-019AB2CF0EBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B14BDBC-937D-4E65-A3E7-019AB2CF0EBC}.Debug|x64.ActiveCfg = Debug|x64
+		{8B14BDBC-937D-4E65-A3E7-019AB2CF0EBC}.Debug|x64.Build.0 = Debug|x64
+		{8B14BDBC-937D-4E65-A3E7-019AB2CF0EBC}.Debug|x86.ActiveCfg = Debug|Win32
+		{8B14BDBC-937D-4E65-A3E7-019AB2CF0EBC}.Debug|x86.Build.0 = Debug|Win32
+		{8B14BDBC-937D-4E65-A3E7-019AB2CF0EBC}.Release|x64.ActiveCfg = Release|x64
+		{8B14BDBC-937D-4E65-A3E7-019AB2CF0EBC}.Release|x64.Build.0 = Release|x64
+		{8B14BDBC-937D-4E65-A3E7-019AB2CF0EBC}.Release|x86.ActiveCfg = Release|Win32
+		{8B14BDBC-937D-4E65-A3E7-019AB2CF0EBC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEF140A5-9FE9-43F9-B58A-58CC67677DB4}
+	EndGlobalSection
+EndGlobal

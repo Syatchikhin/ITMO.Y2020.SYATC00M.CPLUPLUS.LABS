@@ -1,0 +1,3 @@
+﻿  ITMO.GR124.2020.CPL.Lab02_4.cpp
+E:\max\Programming\12_CPL_Osipov\Labs\ITMO.GR124.2020.CPL.Lab02\ITMO.GR124.2020.CPL.Lab02_4\ITMO.GR124.2020.CPL.Lab02_4\ITMO.GR124.2020.CPL.Lab02_4.cpp(60,33): warning C4804: <: небезопасное использование типа "bool" в операции
+  ITMO.GR124.2020.CPL.Lab02_4.vcxproj -> E:\Max\Programming\12_CPL_Osipov\Labs\ITMO.GR124.2020.CPL.Lab02\ITMO.GR124.2020.CPL.Lab02_4\ITMO.GR124.2020.CPL.Lab02_4\Debug\ITMO.GR124.2020.CPL.Lab02_4.exe

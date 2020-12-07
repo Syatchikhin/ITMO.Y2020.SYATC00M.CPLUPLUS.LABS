@@ -1,0 +1,3 @@
+﻿  ITMO.GR124.2020.CPL.Lab02_3.cpp
+E:\Max\Programming\12_CPL_Osipov\Labs\ITMO.GR124.2020.CPL.Lab02\ITMO.GR124.2020.CPL.Lab02_3\ITMO.GR124.2020.CPL.Lab02_3.cpp(7,5): error C3861: lab2_3: идентификатор не найден
+E:\Max\Programming\12_CPL_Osipov\Labs\ITMO.GR124.2020.CPL.Lab02\ITMO.GR124.2020.CPL.Lab02_3\ITMO.GR124.2020.CPL.Lab02_3.cpp(21,22): warning C4244: =: преобразование "double" в "int", возможна потеря данных
