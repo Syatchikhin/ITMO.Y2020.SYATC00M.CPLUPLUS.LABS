@@ -1,0 +1,2 @@
+﻿ITMO.GR124.2020.CPL.Lab05.obj : error LNK2001: неразрешенный внешний символ "int * mas" (?mas@@3PAHA).
+E:\Max\Programming\12_CPL_Osipov\ITMO.Y2020.SYATC00M.CPLUPLUS.LABS\ITMO.GR124.2020.CPL.Lab05\ITMO.GR124.2020.CPL.Lab05\Debug\ITMO.GR124.2020.CPL.Lab05.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
